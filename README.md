@@ -1,0 +1,2 @@
+# angular-runtime-config
+使用APP_INITIALIZER实现Angular运行时环境变量配置
